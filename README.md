@@ -20,7 +20,7 @@ För att en lärare endast ska kunna ha en kurs har kolumnen “CourseTeacher”
 
 ### Normaliseringsregel 2: 
 
-   *Namn är inte med i tabellen “StudentIndex”. 
+   Namn är inte med i tabellen “StudentIndex”. 
 
 ### Normaliseringsregel 3: 
 
